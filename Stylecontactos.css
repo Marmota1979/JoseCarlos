@@ -1,0 +1,61 @@
+
+
+h1{
+    background-color: rgba(0, 0, 0, 60);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+img{
+    width: 50px;
+    float:left ;
+    margin: 30px;
+}
+
+.whatsapp{
+    position: relative;
+    right: 8em;
+    top: 11em;
+}
+
+.whatsapp2{
+    position: relative;
+    right: 2em;
+    top: 14.5em;
+}
+
+.gmail{
+    position: relative;
+    left: 1em;
+    top: 10em;
+}
+
+.gmail2{
+    position: relative;
+    left: 1em;
+    top: 7em;
+}
+
+.facebook{
+    position: relative;
+    right: 3em;
+    top: 3em;
+}
+
+.facebook2{
+    position:relative;
+    left: 2em;
+    top: 0;
+}
+
+.tienda{
+    position: relative;
+    left: 200px;
+}
+
+
+a{
+    font-size: 25px;
+    text-decoration: none;
+}

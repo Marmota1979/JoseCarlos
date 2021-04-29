@@ -1,0 +1,92 @@
+body {
+  background-color: lightslategrey;
+}
+
+h1 {
+  font-size: 120px;
+  text-align: center;
+  color: white;
+  position: fixed;
+  bottom: 100px;
+}
+
+h6 {
+  font-size: 25px;
+  background-color: rgb(245, 198, 43);
+  flex-wrap: 250px;
+  height: 60px;
+  text-align: center;
+}
+
+p {
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.celulares {
+  position: relative;
+  left: 320px;
+  font-size: 10px;
+  background-color: rgb(245, 198, 43);
+  width: 250px;
+  height: 60px;
+  text-align: center;
+}
+
+.repuestos {
+  position: relative;
+  left: 650px;
+  font-size: 10px;
+  background-color: rgb(245, 198, 43);
+  width: 250px;
+  height: 60px;
+  text-align: center;
+}
+
+.belleza {
+  position: relative;
+  left: 1000px;
+  font-size: 10px;
+  background-color: rgb(245, 198, 43);
+  width: 250px;
+  height: 60px;
+  text-align: center;
+}
+.Tienda {
+  position: relative;
+  bottom: -200px;
+  font-size: 10px;
+  background-color: rgb(245, 198, 43);
+  width: 250px;
+  height: 60px;
+  text-align: center;
+}
+
+.hover {
+  position: relative;
+  left: 520px;
+  font-size: 10px;
+  background-color: rgb(245, 198, 43);
+  width: 250px;
+  height: 60px;
+  text-align: center;
+}
+
+a {
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.toner5 {
+  width: 600px;
+  position: relative;
+  left: 400px;
+}
+
+.toner4 {
+  width: 600px;
+  position: relative;
+  left: 400px;
+  margin: 30px;
+}
